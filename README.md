@@ -1,4 +1,4 @@
-## Hi there, I'm [tartarismo!](https://tartarismo.github.io) 👋
+## Hi there, I'm tartarismo! 👋
 
 <a href="https://twitter.com/tartarismo">
   <img align="left" alt="twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
