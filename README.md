@@ -10,7 +10,7 @@
 I'm a tech guy loving IoT.
 
 - I work as Full-Stack web Dev Sr. @Sys-Dat
-- I’m currently learning typescript for fun
+- I’m currently learning Typescript and Blazor for fun
 
 
 
